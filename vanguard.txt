@@ -2,10 +2,6 @@ hhhhhhhh
 There is nothing here.
 I just use the name of my favourite animation.
 
-Aichi Sendo
-
-Kai Toshiki
-
-Ren Suzukamori
-
-Doing sth under the minion branch.
+Aichi Sendo <----> Kai Toshiki <---- Ren Suzukamori
+     |                                    |
+     | <----<----<----<----<----<----<----|
